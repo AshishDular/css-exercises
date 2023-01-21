@@ -1,0 +1,12 @@
+.foo,
+ .loo{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.foo{
+    background-color: #000000;
+    color: rgb(245, 242, 242);
+}
+.loo{
+    background-color: yellow;
+}
